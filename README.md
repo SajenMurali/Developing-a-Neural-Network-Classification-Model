@@ -176,21 +176,25 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 ```
 
 ### Dataset Information
-<img width="1293" height="326" alt="image" src="https://github.com/user-attachments/assets/02ece973-75d4-4bc9-948c-b6ef6cf96261" />
+<img width="1020" height="577" alt="image" src="https://github.com/user-attachments/assets/ea4fe387-1ae5-49f0-9bc3-e53410d4529e" />
+
 
 ### OUTPUT
 
 ## Confusion Matrix
 
-<img width="1523" height="630" alt="image" src="https://github.com/user-attachments/assets/b851847e-3ff4-487a-851e-ccdd80f7cd4b" />
+<img width="764" height="561" alt="image" src="https://github.com/user-attachments/assets/2335f969-fb0d-4427-8640-745ef2a0b1be" />
+
 
 
 ## Classification Report
-<img width="1215" height="281" alt="image" src="https://github.com/user-attachments/assets/cd3f772f-5bb3-450a-bb7e-4a29b7ad632b" />
+<img width="394" height="101" alt="image" src="https://github.com/user-attachments/assets/48e0eb1c-0051-4804-be75-f44ca589eaf5" />
+
 
 
 ### New Sample Data Prediction
-<img width="1218" height="106" alt="image" src="https://github.com/user-attachments/assets/0938cf08-5f8b-44e3-9a13-3ee813c0d4f3" />
+<img width="645" height="438" alt="image" src="https://github.com/user-attachments/assets/17a8908e-ce73-4930-8377-6db256d0eab9" />
+
 
 ## RESULT
 This program has been executed successfully.
